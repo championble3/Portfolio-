@@ -8,10 +8,10 @@
   - [nba_project_nn.ipynb](nba_project_nn.ipynb): Jupyter Notebook for NBA data analysis using neural networks.
 
 
-### Project - [nba_project.ipynb](nba_project.ipynb): Jupyter Notebook for NBA data analysis. 
+### Project - [nba_project.ipynb](nba_project.ipynb):
 - **Description:** This project is aimed at predicting whether NBA players have been named for the team of the season. However, there's a issue: a lot more data from one class than the other, which makes accurate predictions challenging. To overcome this imbalance, I conducted extensive data mining. My analysis covers NBA players from 1980 to 2022, despite the disproportionate representation of data from one class. After all preparations I started to create a model and then evaluate it using Random Forest.
 
-### Project -[nba_project_nn.ipynb](nba_project_nn.ipynb): Jupyter Notebook for NBA data analysis using neural networks.
+### Project -[nba_project_nn.ipynb](nba_project_nn.ipynb):
 - **Description:** In this next phase of the project, I'm experimenting with a neural network to see how it performs compared to our previous methods. It's like trying out a new approach to see if it can outperform what we've already tried.
 
 ### Project - [gender_classifier.ipynb](gender_classifier.ipynb):
