@@ -1,5 +1,4 @@
 ## PORTFOLIO
-### Championble3
 
 - **Description:** This project includes several Jupyter Notebooks and a CSV file related to gender classification and NBA data analysis.
 - **Files:**
@@ -11,6 +10,5 @@
 
 ### Project - [gender_classifier.ipynb](gender_classifier.ipynb):
 
-- **Description:** (This projects mainly predicts the gender by data)
-- **Files:**
-  - (List all relevant files with brief descriptions)
+- **Description:** (This project is all about predicting gender based on given data. Using Python tools for handling and visualizing data, it builds a model to guess whether a person is male or female. It's a fun dive into the world of machine learning and data analysis.)
+
