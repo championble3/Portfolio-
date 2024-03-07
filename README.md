@@ -1,15 +1,17 @@
 ## Projects
 
-### ChampionBLE3
+### Championble3
 
-- **Description:** (Provide a brief description of the ChampionBLE3 project)
+### Championble3
+- **Description:** This project includes several Jupyter Notebooks and a CSV file related to gender classification and NBA data analysis.
 - **Files:**
-  - `gender_classifier.ipynb`: (Describe what this notebook contains)
-  - `nba_data.csv`: (Briefly explain the content of this CSV file)
-  - `nba_project.ipynb`: (Briefly describe what analysis or project is covered in this notebook)
-  - `nba_project_nn.ipynb`: (Explain what this notebook covers, especially if it's different from `nba_project.ipynb`)
+  - `gender_classifier.ipynb`: A Jupyter Notebook for gender classification.
+  - `nba_data.csv`: Dataset containing NBA data.
+  - `nba_project.ipynb`: Jupyter Notebook for NBA data analysis.
+  - `nba_project_nn.ipynb`: Jupyter Notebook for NBA data analysis using neural networks.
 
-### Project Name
+
+### Project `gender_classifier.ipynb`
 
 - **Description:** (Provide a brief description of the project)
 - **Files:**
